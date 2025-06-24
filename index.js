@@ -1,4 +1,4 @@
-let value = [];
+const value = [];
 
 for (let i = 10; i <= 100; i += 10 ){  
     // 10 початок ітерації
